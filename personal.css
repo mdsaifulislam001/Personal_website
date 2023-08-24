@@ -51,7 +51,7 @@ img{
     overflow: hidden;
 }
 .my-work{
-    height: fit-content;
+    height: 500px;
 }
 .footer{
     background-image: url(footer-bg.png);
