@@ -1,3 +1,7 @@
+p{
+    color:grey;
+}
+
 .header{
     background-image: url(header-bg.png);
     overflow: hidden;
@@ -6,15 +10,20 @@
     margin-top: 6%;
 }
 .half-width{
+    height: 650px;
     width: 40%;
     float: left;
     margin-left: 5%;
+    overflow: hidden;
 }
 .name-highlight{
     color: #e83e8c;
     font-weight: 700px;
 }
-
+.biography-img{
+    margin-top: 35%;
+    position: relative;
+}
 img{
     width: 100%;
 }
@@ -41,6 +50,9 @@ img{
     background-image: url(latest-work-bg.png);
     overflow: hidden;
 }
+.my-work{
+    height: fit-content;
+}
 .footer{
     background-image: url(footer-bg.png);
 }
@@ -56,9 +68,10 @@ img{
 .text{
     margin-top: 3%;
 }
-.message-box{
-    background-image: linear-gradient(-225deg,deeppink,salmon);
+.background{
+    text-align: center;
+    background-color: #e83e8c;
+    padding: 10px;
     border-radius: 5px;
-    margin: 0 25%;
-    padding: 3%;
 }
+   
