@@ -10,7 +10,7 @@ p{
     margin-top: 6%;
 }
 .half-width{
-    height:575px;
+    height:550px;
     width: 40%;
     float: left;
     margin-left: 5%;
@@ -51,7 +51,7 @@ img{
     overflow: hidden;
 }
 .my-work{
-    height: 500px;
+    height: 400px;
 }
 .footer{
     background-image: url(footer-bg.png);
