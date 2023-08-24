@@ -10,7 +10,7 @@ p{
     margin-top: 6%;
 }
 .half-width{
-    height:600px;
+    height:620px;
     width: 40%;
     float: left;
     margin-left: 5%;
@@ -21,7 +21,7 @@ p{
     font-weight: 700px;
 }
 .biography-img{
-    margin-top: 25%;
+    margin-top: 20%;
     position: relative;
 }
 img{
