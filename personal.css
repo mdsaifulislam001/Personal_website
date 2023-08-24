@@ -51,7 +51,7 @@ img{
     overflow: hidden;
 }
 .my-work{
-    height: 350px;
+    height: 250px;
 }
 .footer{
     background-image: url(footer-bg.png);
@@ -74,5 +74,8 @@ img{
     background-color: #e83e8c;
     padding: 10px;
     border-radius: 5px;
+}
+.footer{
+    height:250px;
 }
    
